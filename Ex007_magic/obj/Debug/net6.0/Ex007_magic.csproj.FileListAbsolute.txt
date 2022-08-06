@@ -1,0 +1,15 @@
+C:\Users\pc\Desktop\Examples\Ex007_magic\bin\Debug\net6.0\Ex007_magic.exe
+C:\Users\pc\Desktop\Examples\Ex007_magic\bin\Debug\net6.0\Ex007_magic.deps.json
+C:\Users\pc\Desktop\Examples\Ex007_magic\bin\Debug\net6.0\Ex007_magic.runtimeconfig.json
+C:\Users\pc\Desktop\Examples\Ex007_magic\bin\Debug\net6.0\Ex007_magic.dll
+C:\Users\pc\Desktop\Examples\Ex007_magic\bin\Debug\net6.0\Ex007_magic.pdb
+C:\Users\pc\Desktop\Examples\Ex007_magic\obj\Debug\net6.0\Ex007_magic.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\Examples\Ex007_magic\obj\Debug\net6.0\Ex007_magic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\Examples\Ex007_magic\obj\Debug\net6.0\Ex007_magic.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\Examples\Ex007_magic\obj\Debug\net6.0\Ex007_magic.AssemblyInfo.cs
+C:\Users\pc\Desktop\Examples\Ex007_magic\obj\Debug\net6.0\Ex007_magic.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Examples\Ex007_magic\obj\Debug\net6.0\Ex007_magic.dll
+C:\Users\pc\Desktop\Examples\Ex007_magic\obj\Debug\net6.0\refint\Ex007_magic.dll
+C:\Users\pc\Desktop\Examples\Ex007_magic\obj\Debug\net6.0\Ex007_magic.pdb
+C:\Users\pc\Desktop\Examples\Ex007_magic\obj\Debug\net6.0\Ex007_magic.genruntimeconfig.cache
+C:\Users\pc\Desktop\Examples\Ex007_magic\obj\Debug\net6.0\ref\Ex007_magic.dll
