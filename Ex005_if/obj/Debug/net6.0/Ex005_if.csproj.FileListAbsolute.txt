@@ -1,0 +1,15 @@
+C:\Users\pc\Desktop\Examples\Ex005_if\bin\Debug\net6.0\Ex005_if.exe
+C:\Users\pc\Desktop\Examples\Ex005_if\bin\Debug\net6.0\Ex005_if.deps.json
+C:\Users\pc\Desktop\Examples\Ex005_if\bin\Debug\net6.0\Ex005_if.runtimeconfig.json
+C:\Users\pc\Desktop\Examples\Ex005_if\bin\Debug\net6.0\Ex005_if.dll
+C:\Users\pc\Desktop\Examples\Ex005_if\bin\Debug\net6.0\Ex005_if.pdb
+C:\Users\pc\Desktop\Examples\Ex005_if\obj\Debug\net6.0\Ex005_if.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\Examples\Ex005_if\obj\Debug\net6.0\Ex005_if.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\Examples\Ex005_if\obj\Debug\net6.0\Ex005_if.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\Examples\Ex005_if\obj\Debug\net6.0\Ex005_if.AssemblyInfo.cs
+C:\Users\pc\Desktop\Examples\Ex005_if\obj\Debug\net6.0\Ex005_if.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Examples\Ex005_if\obj\Debug\net6.0\Ex005_if.dll
+C:\Users\pc\Desktop\Examples\Ex005_if\obj\Debug\net6.0\refint\Ex005_if.dll
+C:\Users\pc\Desktop\Examples\Ex005_if\obj\Debug\net6.0\Ex005_if.pdb
+C:\Users\pc\Desktop\Examples\Ex005_if\obj\Debug\net6.0\Ex005_if.genruntimeconfig.cache
+C:\Users\pc\Desktop\Examples\Ex005_if\obj\Debug\net6.0\ref\Ex005_if.dll
